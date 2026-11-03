@@ -14,3 +14,7 @@ __pycache__/
 
 # Local settings
 .env
+# Old notebook outputs and backups
+notebooks/data/
+notebooks/figures/
+notebooks/phase1_recovered.ipynb
